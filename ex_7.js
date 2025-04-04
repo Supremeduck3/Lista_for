@@ -1,5 +1,3 @@
-for (let i = 1; i <= 50; i++){
-    if (i % 3 == 0){
-        console.log(i)
-    }
+for (let i = 30; i >= 1; i--){
+    console.log(i);
 }
